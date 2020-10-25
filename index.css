@@ -1,0 +1,35 @@
+body {
+    background-color: #588abb !important;
+}
+h1 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.text {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.7rem;
+}
+
+#btn-style button {
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+img {
+    height: 70vh;
+    width: 80%;
+    border-radius: 50%;
+}
+
+#card-style {
+    border: .5rem solid black;
+    border-radius: 1rem ;
+    box-shadow: 2px  2px  2px rgba(0,0,0,0.12), 
+                4px  4px  4px rgba(0,0,0,0.12), 
+                8px  8px  8px rgba(0,0,0,0.12), 
+                16px 16px 16px rgba(0,0,0,0.12),
+                16px 16px 16px rgba(0,0,0,0.12);
+}
