@@ -38,3 +38,7 @@ img {
     font-weight: 800;
     font-family: 'Montserrat', sans-serif;
 }
+
+#twitterbtn, #facebookbtn {
+    background-color: steelblue;
+}
