@@ -1,5 +1,5 @@
 # Chandler-Bing-Quotes
-A simple Chandler Bing Quotes Generator using Fetch (Javascript).
+A simple Chandler Bing Quotes Generator using Fetch (Javascript). Also you can tweet this quote.
 
 
 
